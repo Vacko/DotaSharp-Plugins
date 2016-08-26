@@ -7,3 +7,7 @@ Few plugins for DotaSharp as example.
 Copyright 2016 Vacko
 
 Licensed under the [MIT licence](LICENSE)
+
+## Pictures
+
+<img src="dotasharp-isillusion.jpg" />
